@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My GitHub!  
 
-I'm **John Nwanosike**, a passionate developer, DevOps, Kubernetes, and ReactJS lover. I specialize in **JavaScript, Python, Go, TypeScript, Kotlin, Dart, Flutter, Java, SASS, and DevOps**, with experience across full-stack development, cloud computing, and software architecture.  
+I'm **John Nwanosike**, a passionate developer, DevOps, Kubernetes, and ReactJS lover. I specialize in **JavaScript, Go, TypeScript, Kotlin, Dart, Flutter, Java, SASS, and DevOps**, with experience across full-stack development, cloud computing, and software architecture.  
 
 ## 🔧 Tech Stack & Expertise  
 
