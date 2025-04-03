@@ -1,16 +1,19 @@
-## Hi there 👋
+# John Nwanosike - Developer & Educator  
 
-<!--
-**johnsage25/johnsage25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to My GitHub!  
 
-Here are some ideas to get you started:
+I'm **John Nwanosike**, a passionate developer, DevOps, Kubernetes, and ReactJS lover. I specialize in **JavaScript, Python, Go, TypeScript, Kotlin, Dart, Flutter, Java, SASS, and DevOps**, with experience across full-stack development, cloud computing, and software architecture.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Expertise  
+
+- **Languages:** JavaScript, TypeScript, Python, Go, Rust, Kotlin, Dart, Java  
+- **Front-end:** React, Svelte, Next.js, Flutter, SASS  
+- **Back-end:** Node.js, Express, Deno, Golang  
+- **Databases:** PostgreSQL, MongoDB, Firebase  
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, Terraform  
+- **Other Tools:** GraphQL, Redis, WebAssembly  
+
+## 🎓 Content & Community  
+- 📚 **Articles**: [Dev.to](https://dev.to/john_nwanosike_c6f9cbd8c3)  
+
+Let's build, learn, and grow together! 🚀  
